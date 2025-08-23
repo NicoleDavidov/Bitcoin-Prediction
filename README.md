@@ -160,7 +160,7 @@ streamlit run app.py
 ```
 
 ### 🌐 **Access Dashboard**
-Open your browser and navigate to: `http://localhost:8501`
+Open your browser and navigate to: `http://localhost:8501/#185-7-k`
 
 ---
 
