@@ -256,15 +256,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📞 **Contact & Support**
-
-- **📧 Email**: your.email@domain.com  
-- **🐙 GitHub**: [@yourusername](https://github.com/yourusername)
-- **💼 LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-- **🐦 Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
 
 **⭐ Star this repository if it helped you predict Bitcoin prices! ⭐**
 
