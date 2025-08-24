@@ -12,7 +12,7 @@
 
 ## 🌟 **Live Professional Dashboard**
 
-🔗 **[View Live Demo](your-streamlit-app-url.com)** 
+🔗 **[View Live Demo](https://btc-trading-analytics.streamlit.app/)** 
 
 Experience our **institutional-grade analytics platform** with:
 - ⚡ **Real-time market data** updated hourly from Yahoo Finance
@@ -171,8 +171,8 @@ stacked_model = StackingRegressor(
 ### 📋 **Local Development**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/bitcoin-predictor-pro.git
-cd bitcoin-predictor-pro
+git clone https://github.com/NicoleDavidov/Bitcoin-Prediction
+cd bitcoin-predictor
 
 # Install dependencies
 pip install -r requirements.txt
@@ -198,7 +198,7 @@ git push heroku main
 
 ### 🌐 **Production URL**
 Your live dashboard will be available at:
-`https://your-app-name.streamlit.app`
+`https://btc-trading-analytics.streamlit.app/`
 
 ---
 
@@ -329,7 +329,7 @@ The platform includes built-in monitoring:
   title={Bitcoin Predictor: Professional Analytics Platform},
   author={Your Name},
   year={2025},
-  url={https://your-app-name.streamlit.app},
+  url={https://btc-trading-analytics.streamlit.app/},
   note={Real-time Bitcoin price prediction with ensemble ML}
 }
 ```
@@ -341,23 +341,20 @@ The platform includes built-in monitoring:
 ### 🛠️ **Development**
 ```bash
 # Development setup
-git clone https://github.com/yourusername/bitcoin-predictor-pro.git
+git clone https://github.com/NicoleDavidov/Bitcoin-Prediction
 pip install -r requirements-dev.txt
 streamlit run app.py --server.runOnSave true
 ```
 
-### 📞 **Support Channels**
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/bitcoin-predictor-pro/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/bitcoin-predictor-pro/discussions)  
-- 📧 **Email**: support@bitcoinpredictor.com
-- 💬 **Discord**: [Join our community](https://discord.gg/bitcoinpredictor)
+### 📞 **Support Channels** 
+- 📧 **Email**: nicoledavidov.dev@gmail.com
 
 ---
 
 ## 🌟 **Live Demo & Access**
 
 ### 🔗 **Try It Now**
-**[🚀 Launch Bitcoin Predictor Professional](your-streamlit-app-url.com)**
+**[🚀 Launch Bitcoin Predictor Professional](https://btc-trading-analytics.streamlit.app/)**
 
 ### 📊 **What You'll See**
 - ⚡ Real-time Bitcoin price with live updates
