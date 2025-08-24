@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import yfinance as yf
-import pandas_datareader as pdr
 from datetime import datetime, timedelta
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, StackingRegressor
 from sklearn.linear_model import Ridge
@@ -18,7 +17,7 @@ warnings.filterwarnings('ignore')
 # ===== PAGE CONFIG =====
 st.set_page_config(
     page_title="Bitcoin Predictor - Professional Analytics",
-    page_icon="🪙",
+    page_icon="₿",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -517,7 +516,7 @@ def get_current_btc_info():
 # ===== HEADER =====
 st.markdown("""
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 0.5rem;">
-    <span class="bitcoin-symbol-mobile" style="font-size: 3rem; color: #F7931E; margin-right: 0.5rem;">🪙</span>
+    <span class="bitcoin-symbol-mobile" style="font-size: 3rem; color: #F7931E; margin-right: 0.5rem;">₿</span>
     <h1 class="main-header" style="margin: 0;">Bitcoin Predictor — Professional Analytics</h1>
 </div>
 """, unsafe_allow_html=True)
