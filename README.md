@@ -375,6 +375,8 @@ streamlit run app.py --server.runOnSave true
 
 **Made with ❤️ using Real-Time Data & Professional ML Engineering**
 
+Developed by Adir Galkop, Shmuel Lachckov and Nicole Davidov
+
 ---
 
 ## 🏷️ **Keywords**
