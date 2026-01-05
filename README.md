@@ -197,8 +197,8 @@ git push heroku main
 ```
 
 ### 🌐 **Production URL**
-Your live dashboard will be available at:
-`https://btc-trading-analytics.streamlit.app/`
+🔗 https://btc-trading-analytics.streamlit.app/
+
 
 ---
 
